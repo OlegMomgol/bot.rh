@@ -2,7 +2,7 @@ import telebot
 import requests
 from telebot import types
 
-API_TOKEN = ""
+API_TOKEN = "7167746378:AAGGyp322F055oHx6ttHc6hhwCZ6XUhUfUo"
 bot = telebot.TeleBot(API_TOKEN)
 
 def main_menu():
